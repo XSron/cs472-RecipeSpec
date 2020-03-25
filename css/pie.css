@@ -1,0 +1,28 @@
+h1, h2 {
+    color: goldenrod;
+    background-color: lightgray;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    text-decoration: underline;
+}
+
+a {
+    color: goldenrod;
+}
+
+.para {
+    line-height: 1;
+    font-size: 12px;
+    color: gray;
+}
+
+.comment {
+    background-color: lightyellow;
+    margin-top: 15px;
+}
